@@ -1,6 +1,13 @@
 ---
 title: WordPress
 ---
+Inline-style: 
+![alt text](https://media.mnn.com/assets/images/2018/07/cat_eating_fancy_ice_cream.jpg.838x0_q80.jpg "KOCHENG")
+
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://media.mnn.com/assets/images/2018/07/cat_eating_fancy_ice_cream.jpg.838x0_q80.jpg "K O C H E N G"
 
 # WordPress
 
